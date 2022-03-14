@@ -1,6 +1,6 @@
 # Odev 1
 
-![proje resmi](img/img1.png)
+![proje resmi](https://github.com/mehmetziyaturan/kodluyoruzilkrepo/blob/main/img/img1.PNG)
 
 # Kodluyoruz Ilk Repo
 
